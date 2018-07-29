@@ -1,2 +1,7 @@
-# quanttide_codestyle
-Guidance on Code Style for QuantTide Inc.
+# QuantTide Codestyle
+
+## Introduction
+Guidance on code style for QuantTide Inc.
+
+## Content
+- Python
