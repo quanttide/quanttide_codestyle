@@ -4,4 +4,4 @@
 Guidance on code style for QuantTide Inc.
 
 ## Content
-- Python
+- Python: TODO 
